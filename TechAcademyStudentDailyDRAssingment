@@ -1,0 +1,30 @@
+using System;
+
+namespace TechAcademyStudentDRAssignment
+{
+    internal class Program
+    {
+        static void Main()
+        {
+            Console.WriteLine("The Tech Academy\nStudent Daily Report\nWhat is your name?");
+            string studentName = Console.ReadLine();
+            Console.WriteLine("What course are you on?");
+            string studentCourse = Console.ReadLine();
+            Console.WriteLine("What page number?");
+            string pageNumber = Console.ReadLine();
+            int pgNb = Convert.ToInt32(pageNumber);
+            Console.WriteLine("Do you need help with anything? Please answere \"true\" or \"false\".");
+            string stuHelp = Console.ReadLine();
+            bool studentHelp = Convert.ToBoolean(stuHelp);
+            Console.WriteLine("Were the any positive experiences you'd like to share? Please give specifics.");
+            string posEx = Console.ReadLine();
+            Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific.");
+            string stuFeed = Console.ReadLine();
+            Console.WriteLine("How many hours did you study today?");
+            string stuHours = Console.ReadLine();
+            int studentHours = Convert.ToInt32(stuHours);
+            Console.WriteLine("Thank you for your answeres. An Instructor will respond to this shortly. Have a great day!");
+            Console.ReadLine();
+        }
+    }
+}

@@ -1,0 +1,8 @@
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BrancingAssignment\BrancingAssignment\bin\Debug\BrancingAssignment.exe.config
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BrancingAssignment\BrancingAssignment\bin\Debug\BrancingAssignment.exe
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BrancingAssignment\BrancingAssignment\bin\Debug\BrancingAssignment.pdb
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BrancingAssignment\BrancingAssignment\obj\Debug\BrancingAssignment.csproj.AssemblyReference.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BrancingAssignment\BrancingAssignment\obj\Debug\BrancingAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BrancingAssignment\BrancingAssignment\obj\Debug\BrancingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BrancingAssignment\BrancingAssignment\obj\Debug\BrancingAssignment.exe
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BrancingAssignment\BrancingAssignment\obj\Debug\BrancingAssignment.pdb

@@ -1,0 +1,8 @@
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\TechAcademyStudentDR\TechAcademyStudentDR\bin\Debug\TechAcademyStudentDR.exe.config
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\TechAcademyStudentDR\TechAcademyStudentDR\bin\Debug\TechAcademyStudentDR.exe
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\TechAcademyStudentDR\TechAcademyStudentDR\bin\Debug\TechAcademyStudentDR.pdb
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\TechAcademyStudentDR\TechAcademyStudentDR\obj\Debug\TechAcademyStudentDR.csproj.AssemblyReference.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\TechAcademyStudentDR\TechAcademyStudentDR\obj\Debug\TechAcademyStudentDR.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\TechAcademyStudentDR\TechAcademyStudentDR\obj\Debug\TechAcademyStudentDR.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\TechAcademyStudentDR\TechAcademyStudentDR\obj\Debug\TechAcademyStudentDR.exe
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\TechAcademyStudentDR\TechAcademyStudentDR\obj\Debug\TechAcademyStudentDR.pdb

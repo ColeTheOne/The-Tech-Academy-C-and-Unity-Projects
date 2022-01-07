@@ -1,0 +1,8 @@
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\whileDowhileAssignment\whileDowhileAssignment\bin\Debug\whileDowhileAssignment.exe.config
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\whileDowhileAssignment\whileDowhileAssignment\bin\Debug\whileDowhileAssignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\whileDowhileAssignment\whileDowhileAssignment\bin\Debug\whileDowhileAssignment.pdb
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\whileDowhileAssignment\whileDowhileAssignment\obj\Debug\whileDowhileAssignment.csproj.AssemblyReference.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\whileDowhileAssignment\whileDowhileAssignment\obj\Debug\whileDowhileAssignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\whileDowhileAssignment\whileDowhileAssignment\obj\Debug\whileDowhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\whileDowhileAssignment\whileDowhileAssignment\obj\Debug\whileDowhileAssignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\whileDowhileAssignment\whileDowhileAssignment\obj\Debug\whileDowhileAssignment.pdb

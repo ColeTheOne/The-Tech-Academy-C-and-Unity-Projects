@@ -1,0 +1,8 @@
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BoolianLogicAssingment\BoolianLogicAssingment\bin\Debug\BoolianLogicAssingment.exe.config
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BoolianLogicAssingment\BoolianLogicAssingment\bin\Debug\BoolianLogicAssingment.exe
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BoolianLogicAssingment\BoolianLogicAssingment\bin\Debug\BoolianLogicAssingment.pdb
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BoolianLogicAssingment\BoolianLogicAssingment\obj\Debug\BoolianLogicAssingment.csproj.AssemblyReference.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BoolianLogicAssingment\BoolianLogicAssingment\obj\Debug\BoolianLogicAssingment.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BoolianLogicAssingment\BoolianLogicAssingment\obj\Debug\BoolianLogicAssingment.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BoolianLogicAssingment\BoolianLogicAssingment\obj\Debug\BoolianLogicAssingment.exe
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\BoolianLogicAssingment\BoolianLogicAssingment\obj\Debug\BoolianLogicAssingment.pdb

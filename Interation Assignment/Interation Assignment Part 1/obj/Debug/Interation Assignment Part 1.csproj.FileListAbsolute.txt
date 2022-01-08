@@ -1,0 +1,8 @@
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\Interation Assignment Part 1\Interation Assignment Part 1\obj\Debug\Interation Assignment Part 1.csproj.AssemblyReference.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\Interation Assignment Part 1\Interation Assignment Part 1\obj\Debug\Interation Assignment Part 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\Interation Assignment Part 1\Interation Assignment Part 1\obj\Debug\Interation Assignment Part 1.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\Interation Assignment Part 1\Interation Assignment Part 1\bin\Debug\Interation Assignment Part 1.exe.config
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\Interation Assignment Part 1\Interation Assignment Part 1\bin\Debug\Interation Assignment Part 1.exe
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\Interation Assignment Part 1\Interation Assignment Part 1\bin\Debug\Interation Assignment Part 1.pdb
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\Interation Assignment Part 1\Interation Assignment Part 1\obj\Debug\Interation Assignment Part 1.exe
+C:\Users\colef\OneDrive\Desktop\Basic_C#_Programs\Interation Assignment Part 1\Interation Assignment Part 1\obj\Debug\Interation Assignment Part 1.pdb

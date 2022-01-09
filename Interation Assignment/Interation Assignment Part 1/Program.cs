@@ -53,7 +53,7 @@ namespace Interation_Assignment_Part_1
                 if (toppings[i] == userSelect)
                 {
                     Console.WriteLine("You have seleted topping number: " + i);
-                    i = 20;
+                    break;
                 }
                 else if (i == 4)
                 {
@@ -69,14 +69,19 @@ namespace Interation_Assignment_Part_1
 
             for (int i = 0; i < cheeses.Length; i++)
             {
+                int count = 0;
                 for (int j = 0; j < cheeses.Length; j++)
                 {
                     if (i != j && cheeses[i] == cheeses[j])
                     {
                         Console.WriteLine("The item " + cheeses[i] + " appears twice in the list");
-                        i = 20;
-                        j = 20;
+                        count++;
+                        break;
                     }
+                }
+                if (count > 0)
+                {
+                    break;
                 }
             }
 
@@ -88,7 +93,7 @@ namespace Interation_Assignment_Part_1
                 if (cheeses[i] == cheeseSelect)
                 {
                     Console.WriteLine("You have selected cheese number: " + i);
-                    i = 20;
+                    break;
                 }
                 else if (i == 3)
                 {

@@ -1,0 +1,7 @@
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Exeption Assignment\Exeption Assignment\bin\Debug\Exeption Assignment.exe.config
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Exeption Assignment\Exeption Assignment\bin\Debug\Exeption Assignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Exeption Assignment\Exeption Assignment\bin\Debug\Exeption Assignment.pdb
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Exeption Assignment\Exeption Assignment\obj\Debug\Exeption Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Exeption Assignment\Exeption Assignment\obj\Debug\Exeption Assignment.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Exeption Assignment\Exeption Assignment\obj\Debug\Exeption Assignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Exeption Assignment\Exeption Assignment\obj\Debug\Exeption Assignment.pdb

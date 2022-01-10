@@ -26,6 +26,6 @@ namespace Method_Assignment
             return Result;
         }
 
-        public int Result {get; set;}
+        //public int Result {get; set;}
     }
 }

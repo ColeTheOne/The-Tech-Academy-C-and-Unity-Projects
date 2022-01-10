@@ -1,0 +1,8 @@
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Method Assignment 2\Method Assignment 2\bin\Debug\Method Assignment 2.exe.config
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Method Assignment 2\Method Assignment 2\bin\Debug\Method Assignment 2.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Method Assignment 2\Method Assignment 2\bin\Debug\Method Assignment 2.pdb
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Method Assignment 2\Method Assignment 2\obj\Debug\Method Assignment 2.csproj.AssemblyReference.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Method Assignment 2\Method Assignment 2\obj\Debug\Method Assignment 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Method Assignment 2\Method Assignment 2\obj\Debug\Method Assignment 2.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Method Assignment 2\Method Assignment 2\obj\Debug\Method Assignment 2.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Method Assignment 2\Method Assignment 2\obj\Debug\Method Assignment 2.pdb

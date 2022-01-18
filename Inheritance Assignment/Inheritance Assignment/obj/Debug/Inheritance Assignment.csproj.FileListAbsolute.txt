@@ -1,0 +1,7 @@
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe.config
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Inheritance Assignment\Inheritance Assignment\bin\Debug\Inheritance Assignment.pdb
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Inheritance Assignment\Inheritance Assignment\obj\Debug\Inheritance Assignment.pdb

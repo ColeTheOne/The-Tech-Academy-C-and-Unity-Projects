@@ -28,7 +28,6 @@ namespace Method_Assignment_3
                 int sum = math.doMath(num1);
                 Console.WriteLine("Your two numbers added together equals: {0}", sum);
             }
-
           
             Console.ReadLine();
         }

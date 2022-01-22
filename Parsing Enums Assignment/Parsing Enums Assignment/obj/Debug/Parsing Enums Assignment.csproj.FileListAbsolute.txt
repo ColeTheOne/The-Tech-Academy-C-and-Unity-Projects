@@ -1,0 +1,8 @@
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe.config
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Parsing Enums Assignment\Parsing Enums Assignment\bin\Debug\Parsing Enums Assignment.pdb
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.AssemblyReference.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\Parsing Enums Assignment\Parsing Enums Assignment\obj\Debug\Parsing Enums Assignment.pdb

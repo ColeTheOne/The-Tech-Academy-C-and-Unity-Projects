@@ -1,0 +1,7 @@
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.exe.config
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\DateTime Assignment\DateTime Assignment\bin\Debug\DateTime Assignment.pdb
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.SuggestedBindingRedirects.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.csproj.CoreCompileInputs.cache
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.exe
+C:\Users\colef\OneDrive\Documents\GitHub\The-Tech-Academy-C-and-Unity-Projects\DateTime Assignment\DateTime Assignment\obj\Debug\DateTime Assignment.pdb
